@@ -56,7 +56,7 @@ broadcasts are outside the proposed scope.
 | Artifact | Purpose |
 |---|---|
 | [Business Requirements Document](documentation/Media_Monitoring_BRD.pdf) | Formal requirements, proposed solution, feasibility analysis, and assumptions |
-| [Architecture Diagram](diagrams/media_monitoring_architecture.svg) | Visual overview of ingestion, processing, human review, and reporting |
+| [Architecture Diagram](diagrams/media_monitoring_architecture.md) | Visual overview of ingestion, processing, human review, and reporting |
 
 ## Proposed System Architecture
 
